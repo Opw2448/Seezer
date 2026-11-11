@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Seezer",
+    "slug": "seezer",
+    "version": "1.0.5",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logo.png",
+      "backgroundColor": "#0a0a0f"
+    },
+    "plugins": [
+      "./withForegroundServiceType.js"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": [
+        "FOREGROUND_SERVICE",
+        "FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "WAKE_LOCK"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/realLogo.png",
+        "resizeMode": "center",
+        "backgroundColor": "#0a0a0f"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.opw2448.seezer"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee315376-90d1-4e2f-a9a0-4b32111d4cda"
+      }
+    }
+  }
+}
