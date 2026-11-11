@@ -19,16 +19,11 @@
 
 ## 📸 Screenshots
 
-![Home Screen](screenshots/home.png)
-![Home Screen with Music listening](screenshots/homeUse.png)
-![Playlist](screenshots/playlist.png)
-![Playlist with Music listening](screenshots/playlistUse.png)
-
 <p>
- <img src="screenshots/home.png" width="200" />
- <img src="screenshots/homeUse.png" width="200" />
- <img src="screenshots/playlist.png" width="200" />
- <img src="screenshots/playlistUse.png" width="200" />
+ <img src="screenshots/home.png" width="125" />
+ <img src="screenshots/homeUse.png" width="125" />
+ <img src="screenshots/playlist.png" width="125" />
+ <img src="screenshots/playlistUse.png" width="125" />
 </p>
 
 ## 🚀​ Getting Started
