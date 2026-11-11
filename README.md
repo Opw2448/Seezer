@@ -1,8 +1,12 @@
+<p align="center">
+ <img src="screenshots/logo.png" width="120" alt="Seezer logo" />
+</p>
 
-# 🎵 Seezer
+<h1 align="center"># 🎵 Seezer</h1>
 
-
-A mobile music streaming app built with React Native and Expo
+<p align="center">
+ A mobile music streaming app built with React Native and Expo.
+</p>
 
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
@@ -15,9 +19,21 @@ A mobile music streaming app built with React Native and Expo
 
 ## 📸 Screenshots
 
-- None for the moment
+![Home Screen](screenshots/home.png)
+![Home Screen with Music listening](screenshots/homeUse.png)
+![Playlist](screenshots/playlist.png)
+![Playlist with Music listening](screenshots/playlistUse.png)
+
+<p>
+ <img src="screenshots/home.png" width="200" />
+ <img src="screenshots/homeUse.png" width="200" />
+ <img src="screenshots/playlist.png" width="200" />
+ <img src="screenshots/playlistUse.png" width="200" />
+</p>
 
 ## 🚀​ Getting Started
+
+### ​🛠️​ Prerequisites
 
 - [Node.js](https://node.js.org/) (version 18 or later)
 - The [Expo Go](https://espo.dev/go) app on your phone
