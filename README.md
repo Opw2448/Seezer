@@ -50,3 +50,11 @@ npx expo start
 ```
 
 Then scan the QR code with Expo Go (Android) or the Camera app (ios)
+
+## ⚠️​ Warning
+
+I would ask you to respect copyright and only import sounds that are not copyright or for which you have paid a licence to listen them.
+
+## 📖​ More Information
+
+This my first developpement project. Unfortunately, i did a lot of vibecoding. If you have any questions or suggestions, please don't hesitate to ask to me.
